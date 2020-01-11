@@ -57,6 +57,7 @@
 
             calculateBMI = () => {
                 console.log('calculateBMI')
+                // Checks for valid user input
                 if (this.state.weight > 0 && this.state.height > 0) {
                     this.setState({ bmi: (this.state.weight / (this.state.height * this.state.height)).toFixed(2) })
                 } else {
