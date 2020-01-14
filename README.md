@@ -7,4 +7,4 @@ Waits for the user to input valid values before calculating.
 
 ///
 
-Made as a part of a JavaScript course at Tampere University of Applied Sciences.
+Made as a part of a JavaScript(+React) course at Tampere University of Applied Sciences.
